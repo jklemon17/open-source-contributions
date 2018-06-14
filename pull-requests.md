@@ -13,14 +13,15 @@ Pull Request 5: https://github.com/TheOdinProject/ruby_course/pull/294
 
 GitLab:
 
-https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/17941
+Pull Request 1: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/17941
+
 
 freeCodeCamp:
 
-FCC Pull Request 1: https://github.com/freeCodeCamp/freeCodeCamp/pull/16887
+Pull Request 1: https://github.com/freeCodeCamp/freeCodeCamp/pull/16887
 
-FCC Pull Request 2: https://github.com/freeCodeCamp/freeCodeCamp/pull/16888
+Pull Request 2: https://github.com/freeCodeCamp/freeCodeCamp/pull/16888
 
-FCC Pull REquest 3: https://github.com/freeCodeCamp/freeCodeCamp/pull/16922
+Pull REquest 3: https://github.com/freeCodeCamp/freeCodeCamp/pull/16922
 
-FCC Pull Request 4: https://github.com/freeCodeCamp/freeCodeCamp/pull/16972
+Pull Request 4: https://github.com/freeCodeCamp/freeCodeCamp/pull/16972
