@@ -1,4 +1,4 @@
-The Odin Project:
+__The Odin Project:__
 
 Pull Request 1: https://github.com/TheOdinProject/curriculum/pull/7786
 
@@ -11,12 +11,12 @@ Pull Request 4: https://github.com/TheOdinProject/rails_course/pull/100
 Pull Request 5: https://github.com/TheOdinProject/ruby_course/pull/294
 
 
-GitLab:
+__GitLab:__
 
 Pull Request 1: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/17941
 
 
-freeCodeCamp:
+__freeCodeCamp:__
 
 Pull Request 1: https://github.com/freeCodeCamp/freeCodeCamp/pull/16887
 
