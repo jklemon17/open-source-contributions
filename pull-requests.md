@@ -9,12 +9,12 @@ Pull Request 3: https://github.com/TheOdinProject/ruby_course/pull/275
 Pull Request 4: https://github.com/TheOdinProject/rails_course/pull/100
 
 Pull Request 5: https://github.com/TheOdinProject/ruby_course/pull/294
-
+<br><br>
 
 __GitLab:__
 
 Pull Request 1: https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/17941
-
+<br><br>
 
 __freeCodeCamp:__
 
