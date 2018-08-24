@@ -1,3 +1,5 @@
+Open Source Contributions
+
 __The Odin Project:__
 
 Pull Request 1: https://github.com/TheOdinProject/curriculum/pull/7786
